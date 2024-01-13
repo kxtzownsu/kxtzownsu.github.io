@@ -1,0 +1,25 @@
+{
+    "apps": [
+        {
+            "name": "Adobe Flash Emulator",
+            "icon": "icons/flash.svg",
+            "desc": "A plugin to run SWF Files",
+            "data": "apps/flash.app.zip",
+            "category": "plugin"
+        },
+	{
+	    "name": "Nintendo 64 Emulator",
+	    "icon": "icons/N64.png",
+	    "desc": "Nintendo 64 Emulator - Made using emulator.js",
+	    "data": "apps/N64.app.zip",
+	    "category": "game"
+	},
+	{ 
+            "name": "Nintendo DS Emulator",
+            "icon": "icons/NDS.png",
+            "desc": "Nintendo DS Emulator - Made using emulator.js",
+            "data": "apps/NDS.app.zip",
+            "category": "game" 
+        }
+    ]
+}
