@@ -1,2 +1,1 @@
-# kxtzownsu.github.io
-my website :3
+deprecated, see [kxtz.dev](https://kxtz.dev)
